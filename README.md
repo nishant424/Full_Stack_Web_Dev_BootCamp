@@ -6,3 +6,7 @@ Shraddha Ji
 
 # Student
 Nishant
+
+# Day 2, 3, 4 Learning
+
+Finished HTML all important topics with hands on.
